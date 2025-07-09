@@ -79,7 +79,7 @@ Taught algorithms and programming basics to high schoolers using OOP and SNAP to
 ### 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/myo-t-aung)
-- [Email](mailto:your.email@myoa86g@gmail.com) 
+- [Email](mailto:myoa86g@gmail.com) 
 - [Portfolio](https://www.myothuwinaung.com/) 
 
 ---
